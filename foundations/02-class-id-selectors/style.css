@@ -1,0 +1,28 @@
+
+
+ li:nth-child(odd){
+    background-color: rgb(184, 117, 127); 
+    font-family: Verdana, DejaVu Sans, sans-serif;
+ }
+
+ #second-id{
+    color:rgb(36, 36, 184);
+    font-size:36px;
+
+ }
+
+ #fourth-id{
+
+    background-color: rgb(116, 160, 116);
+    font-size: 24px;
+    font-weight: bold;
+ }
+
+ .cool-class{
+
+ }
+
+ .cooler-class{
+    font-size: 36px;
+ }
+
