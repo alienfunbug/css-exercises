@@ -2,7 +2,7 @@
 
  li:nth-child(odd){
     background-color: rgb(184, 117, 127); 
-    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
  }
 
  #second-id{
